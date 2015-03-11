@@ -1,2 +1,2 @@
 
-module.exports = require("./clients/server/token-sockjs-ws");
+module.exports = require("./clients/browser/tokensockjs");

@@ -1,3 +1,7 @@
+ABOUT
+====================
+I use this fork to get the browser client working with jspm and Aurelia
+
 Token Sockjs Clients
 ====================
 

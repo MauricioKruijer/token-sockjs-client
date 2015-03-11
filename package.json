@@ -1,14 +1,14 @@
 {
   "name": "token-sockjs-client",
   "version": "2.0.7",
-  "description": "Client libraries for Node-Token-Sockjs server",
+  "description": "Client Browser library for Node-Token-Sockjs server",
   "main": "index.js",
   "scripts": {
     "test": "grunt"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azuqua/token-sockjs-client"
+    "url": "https://github.com/MauricioKruijer/token-sockjs-client"
   },
   "keywords": [
     "azuqua",
@@ -24,9 +24,9 @@
   "author": "Alec Embke <alec@azuqua.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azuqua/token-sockjs-client/issues"
+    "url": "https://github.com/MauricioKruijer/token-sockjs-client/issues"
   },
-  "homepage": "https://github.com/azuqua/token-sockjs-client",
+  "homepage": "https://github.com/MauricioKruijer/token-sockjs-client",
   "devDependencies": {
     "browserify": "^6.3.2",
     "chai": "^1.10.0",
@@ -44,10 +44,5 @@
     "proxyquire": "^1.1.0"
   },
   "dependencies": {
-    "async": "^0.9.0",
-    "lodash": "^2.4.1",
-    "node-uuid": "^1.4.1",
-    "restjs": "azuqua/restjs",
-    "sockjs-client-ws": "^0.1.0"
   }
 }
