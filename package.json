@@ -1,7 +1,7 @@
 {
   "name": "token-sockjs-client",
-  "version": "2.0.7",
-  "description": "Client Browser library for Node-Token-Sockjs server",
+  "version": "2.0.8",
+  "description": "Client libraries for Node-Token-Sockjs server",
   "main": "index.js",
   "scripts": {
     "test": "grunt"
@@ -44,5 +44,10 @@
     "proxyquire": "^1.1.0"
   },
   "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1",
+    "node-uuid": "^1.4.1",
+    "restjs": "azuqua/restjs",
+    "sockjs-client-ws": "^0.1.0"
   }
 }
